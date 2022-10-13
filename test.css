@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://res.allmacwallpaper.com/get/Retina-MacBook-Air-13-inch-wallpapers/darth-vader-star-wars-maythefourthbewithyou-4k-2560x1600/24092-11.jpg);
+    background-size: 1920PX 1080px;
+}
+ 
+img {
+    border: 2px solid black;
+    width: 350px;
+    height: 650px;
+    height: center;
+    position: center;
+}
+ 
+div {
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 20px;
+   
+}
+ 
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+   
+}
