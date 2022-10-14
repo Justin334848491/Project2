@@ -12,7 +12,7 @@ img {
 }
  
 div {
-    color: white;
+    color: black;
     text-align: center;
     margin-top: 60px;
     font-size: 20px;
@@ -20,7 +20,7 @@ div {
 }
  
 h1 {
-    color: white;
+    color: black;
     font-style: italic;
     text-align: center;
     margin-top: -40px;
